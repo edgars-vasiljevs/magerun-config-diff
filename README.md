@@ -28,8 +28,8 @@ Run this command from your local Magento root folder
     
 ## Options
 
-1. `--password=<password>` (Optional) Set password as an optoin (Not recommended).
-2. `--column-width=<width>` (Default: 50) Maximum column width in console output.
+`--password=<password>` (Optional) Set password as an optoin (Not recommended).
+`--column-width=<width>` (Optional, Default: 50) Maximum column width in console output.
 
 
 ## TODO
