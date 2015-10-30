@@ -1,6 +1,6 @@
 # Magerun Config Diff
 
-Magerun module for generating diff between local and remote magento installations.
+Magerun module for generating diff between local and remote magento installations via SSH.
 
 ![](http://i.imgur.com/FV7pjeJ.png)
 
