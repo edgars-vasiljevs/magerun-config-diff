@@ -1,0 +1,6 @@
+autoloaders:
+  ConfigDiff: %module%/src
+
+commands:
+  customCommands:
+    - ConfigDiff\DiffCommand

@@ -1,0 +1,22 @@
+{
+    "name": "orkz/magerun-config-diff",
+    "type": "library",
+    "description": "N98 MageRun command for diffing local and remote box via SSH",
+    "keywords": ["magerun"],
+    "homepage": "https://github.com/orkz/magerun-config-diff",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edgars Vasiljevs",
+            "email": "edgars@scandiweb.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "herzult/php-ssh": "~1.0"
+    },
+    "require-dev": {
+        "n98/magerun": "1.91.*"
+    }
+}
